@@ -5,6 +5,7 @@ Simple cards project in React to show the use of component with props with some 
 Technologies:
 
 - Gradient.io
+- Animate css
 - Flat Color Palette - Drible.com/Ebtihaj
 - Oxygen Font
 
