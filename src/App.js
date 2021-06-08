@@ -1,11 +1,9 @@
 import React from 'react';
-import Card from './components/Card';
+import Dashboard from './components/Dashboard';
 
 function App() {
   return (
-    <div>
-      <Card />
-    </div>
+    <Dashboard />
   )
 }
 
